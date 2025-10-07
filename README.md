@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nedy Nugroho Mulyadi</h1>
-<h3 align="center">I'm passionate about building efficient and scalable backend systems. I mainly work with Laravel, Express, ASP.NET Core and Spring Boot, but I also explore frontend frameworks like React and Next.js to better understand full-stack development.</h3>
+<h4 align="center">I'm passionate about building efficient and scalable backend systems. I mainly work with Laravel, Express, ASP.NET Core and Spring Boot, but I also explore frontend frameworks like React and Next.js to better understand full-stack development.</h3>
 
   - 💡 I enjoy designing clean APIs, optimizing databases, and implementing modern software architecture.
 
